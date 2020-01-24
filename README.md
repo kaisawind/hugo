@@ -1,1 +1,0 @@
-# hugo-theme-3-hugo
